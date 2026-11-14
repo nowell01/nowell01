@@ -23,7 +23,7 @@ Real-time crypto arbitrage detection platform monitoring **21 trading pairs** ac
 - **Telegram Bot** that broadcasts alerts to all `/start` subscribers
 - Deployed on **Azure App Service** (backend) + **Vercel** (frontend)
 
-🔗 [Live Demo]([https://www.cryptoscan.tech/])
+🔗 [Live Demo]([https://www.cryptoscan.tech/)
 
 ## 💼 Experience
 
