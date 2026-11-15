@@ -27,11 +27,11 @@ Real-time crypto arbitrage detection platform monitoring **21 trading pairs** ac
 
 ## 💼 Experience
 
+- **IT Junior Specialist (Co-op)** @ Złote Ziarno, Warsaw, PL *(May 2026 – Aug 2026)*  
+  IT support, workstation setup, system monitoring, internal app maintenance
+
 - **Junior Software Developer** @ Green Solutions, Hamilton, ON *(Sep 2024 – Mar 2026)*  
   .NET app support, Python automation scripts, Microsoft 365 administration, GitHub CI/CD
-
-- **IT Junior Specialist** @ Złote Ziarno, Warsaw, PL *(Jul 2024 – Aug 2025)*  
-  IT support, workstation setup, system monitoring, internal app maintenance
 
 ## 📫 Let's connect
 
