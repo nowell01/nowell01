@@ -22,6 +22,7 @@ Real-time crypto arbitrage detection platform monitoring **21 trading pairs** ac
 - **SignalR WebSockets** for zero-latency alert delivery to the React dashboard
 - **Telegram Bot** that broadcasts alerts to all `/start` subscribers
 - Deployed on **Azure App Service** (backend) + **Vercel** (frontend)
+- **AI Alert Summary** done via Groq API Call
 
 🔗 [Live Demo](https://www.cryptoscan.tech/)
 
