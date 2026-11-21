@@ -11,17 +11,20 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-85bffc?style=flat&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-blue?style=flat&logo=docker&logoColor=white)
 
 ## 🚀 Featured Project
 
-### [CEX·DEX Arbitrage Dashboard](https://github.com/nowell01/CEX-DEX-PriceParser)
+### [CryptoScan](https://github.com/nowell01/CryptoScan)
 Real-time crypto arbitrage detection platform monitoring **21 trading pairs** across **7 exchanges** (Binance, Coinbase, KuCoin, Bybit, OKX, PancakeSwap, Hyperliquid).
 
 - **ASP.NET Core (.NET 9)** backend with background price polling every 5 minutes
+- Migrations and Entities for **PostgreSQL 18**
 - **SignalR WebSockets** for zero-latency alert delivery to the React dashboard
 - **Telegram Bot** that broadcasts alerts to all `/start` subscribers
-- Deployed on **Azure App Service** (backend) + **Vercel** (frontend)
+- Deployed via **Docker** on **Azure App Container** (backend) + **Vercel** (frontend)
 - **AI Alert Summary** done via Groq API Call
 
 🔗 [Live Demo](https://www.cryptoscan.tech/)
