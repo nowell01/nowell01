@@ -35,7 +35,7 @@ Real-time crypto arbitrage detection platform monitoring **21 trading pairs** ac
   IT support, workstation setup, system monitoring, internal app maintenance
 
 - **Junior Software Developer** @ Green Solutions, Hamilton, ON *(Sep 2024 – Mar 2026)*  
-  .NET app support, Python automation scripts, Microsoft 365 administration, GitHub CI/CD
+  .NET maintain daily routine/app support, Git/GitHub Actions CI/CD
 
 ## 📫 Let's connect
 
